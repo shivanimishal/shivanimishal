@@ -16,7 +16,7 @@ dashboards and executive-facing reporting that drives real decisions.
 | P2P Financial Analytics | SQL | Schema design, KPI queries, window functions, bridge analysis |
 | Snowflake Schema Design | Snowflake SQL | Cloud DW architecture, DDL, design rationale |
 | Report Validation Toolkit | Python, pandas | Data quality automation, pipeline migration validation |
-| Alteryx Workflow Docs | SQL, Markdown | ETL logic translation, platform-agnostic documentation |
+| Alteryx Workflow Docs | XML | ETL logic translation, platform-agnostic documentation |
 | KPI Report Generator | Python, openpyxl | Automated Excel reporting, conditional formatting |
  
 ---
