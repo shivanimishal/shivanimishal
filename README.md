@@ -23,12 +23,12 @@ dashboards and executive-facing reporting that drives real decisions.
  
 ## Core Stack
  
-**BI & Visualisation:** Power BI · DAX · Tableau · Alteryx
-**Data Engineering:** SQL · Snowflake · ETL Pipeline Design · Star/Snowflake Schema
+**BI & Visualisation:** Power BI · DAX · Tableau · Alteryx<br>
+**Data Engineering:** SQL · Snowflake · ETL Pipeline Design · Star/Snowflake Schema<br>
 **Programming:** Python (pandas, openpyxl) · Power Query
  
 ---
  
 ## Connect
-- LinkedIn: [linkedin.com/in/shivanimishal] (www.linkedin.com/in/shivanimishal)
+- LinkedIn: [linkedin.com/in/shivanimishal](www.linkedin.com/in/shivanimishal)
 - Email: shivanimishal56628@gmail.com
