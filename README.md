@@ -13,11 +13,12 @@ dashboards and executive-facing reporting that drives real decisions.
  
 | Project | Tools | What It Demonstrates |
 |---------|-------|----------------------|
-| P2P Financial Analytics | SQL | Schema design, KPI queries, window functions, bridge analysis |
-| Snowflake Schema Design | Snowflake SQL | Cloud DW architecture, DDL, design rationale |
-| Report Validation Toolkit | Python, pandas | Data quality automation, pipeline migration validation |
-| Alteryx Workflow Docs | XML | ETL logic translation, platform-agnostic documentation |
-| KPI Report Generator | Python, openpyxl | Automated Excel reporting, conditional formatting |
+| [P2P Financial Analytics](https://github.com/shivanimishal/financial-analytics-sql) | SQL | Schema design, window functions, bridge analysis, SLO compliance |
+| [Snowflake Schema Design](https://github.com/shivanimishal/snowflake-schema-design-finance) | Snowflake SQL | Cloud DW architecture, design decisions, Snowflake-specific patterns |
+| [Report Validation Toolkit](https://github.com/shivanimishal/report-validation-toolkit) | Python, pandas | Data quality automation, pipeline migration validation |
+| [Alteryx Workflow Docs](https://github.com/shivanimishal/alteryx-workflow-documentation) | XML| ETL logic documentation |
+| [KPI Report Generator](https://github.com/shivanimishal/kpi-report-generator) | Python, openpyxl | Automated Excel reporting, RAG conditional formatting |
+
  
 ---
  
