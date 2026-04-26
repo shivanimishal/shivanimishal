@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**shivanimishal/shivanimishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Shivani Mishal — BI & Data Analytics
+ 
+**BI Architect at Goldman Sachs** | 4 years building enterprise analytics
+infrastructure across large-scale, multi-source financial environments.
+ 
+I design data infrastructure that turns complexity into clarity —
+from ETL pipeline architecture and schema design through to self-service
+dashboards and executive-facing reporting that drives real decisions.
+ 
+---
+ 
+## Portfolio Projects
+ 
+| Project | Tools | What It Demonstrates |
+|---------|-------|----------------------|
+| P2P Financial Analytics | SQL | Schema design, KPI queries, window functions, bridge analysis |
+| Snowflake Schema Design | Snowflake SQL | Cloud DW architecture, DDL, design rationale |
+| Report Validation Toolkit | Python, pandas | Data quality automation, pipeline migration validation |
+| Alteryx Workflow Docs | SQL, Markdown | ETL logic translation, platform-agnostic documentation |
+| KPI Report Generator | Python, openpyxl | Automated Excel reporting, conditional formatting |
+ 
+---
+ 
+## Core Stack
+ 
+**BI & Visualisation:** Power BI · DAX · Tableau · Alteryx
+**Data Engineering:** SQL · Snowflake · ETL Pipeline Design · Star/Snowflake Schema
+**Programming:** Python (pandas, openpyxl) · Power Query
+ 
+---
+ 
+## Connect
+- LinkedIn: [linkedin.com/in/shivanimishal] (www.linkedin.com/in/shivanimishal)
+- Email: shivanimishal56628@gmail.com
